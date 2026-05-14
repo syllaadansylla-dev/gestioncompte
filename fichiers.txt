@@ -1,0 +1,3 @@
+Créer un dépot sur github et nommé le: gestioncompte
+Ecrivez quelques contenus dans les fichiers
+Déployer les fichiers sur gitHub individuellement
