@@ -1,0 +1,2 @@
+Preciser la raison du commit pour chaque fichier
+Ajouter un (eme fichierr dans le dossier: client.html
